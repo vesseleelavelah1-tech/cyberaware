@@ -1,0 +1,104 @@
+[
+    {
+        "student_id": "lavelah",
+        "completed_modules": [
+            "Introduction to Cybersecurity",
+            "Phishing Awareness",
+            "Password Security",
+            "Social Engineering",
+            "Safe Browsing",
+            "Cybersecurity Quiz",
+            "Security Tips",
+            "Online Privacy",
+            "Cybercrime Awareness"
+        ],
+        "total_modules": 9,
+        "completed_count": 9,
+        "progress_percentage": 100.0
+    },
+    {
+        "student_id": "lavelah",
+        "completed_modules": [
+            "Introduction to Cybersecurity",
+            "Phishing Awareness",
+            "Password Security",
+            "Social Engineering",
+            "Safe Browsing",
+            "Cybersecurity Quiz",
+            "Security Tips",
+            "Online Privacy",
+            "Cybercrime Awareness"
+        ],
+        "total_modules": 9,
+        "completed_count": 9,
+        "progress_percentage": 100.0
+    },
+    {
+        "student_id": "vesselee",
+        "completed_modules": [
+            "Introduction to Cybersecurity",
+            "Phishing Awareness",
+            "Password Security",
+            "Social Engineering",
+            "Safe Browsing",
+            "Cybersecurity Quiz",
+            "Security Tips",
+            "Online Privacy",
+            "Cybercrime Awareness"
+        ],
+        "total_modules": 9,
+        "completed_count": 9,
+        "progress_percentage": 100.0
+    },
+    {
+        "student_id": "vesselee",
+        "completed_modules": [
+            "Introduction to Cybersecurity",
+            "Phishing Awareness",
+            "Password Security",
+            "Social Engineering",
+            "Safe Browsing",
+            "Cybersecurity Quiz",
+            "Security Tips",
+            "Online Privacy",
+            "Cybercrime Awareness"
+        ],
+        "total_modules": 9,
+        "completed_count": 9,
+        "progress_percentage": 100.0
+    },
+    {
+        "student_id": "john",
+        "completed_modules": [
+            "Introduction to Cybersecurity",
+            "Phishing Awareness",
+            "Password Security",
+            "Social Engineering",
+            "Safe Browsing",
+            "Cybersecurity Quiz",
+            "Security Tips",
+            "Online Privacy",
+            "Cybercrime Awareness"
+        ],
+        "total_modules": 9,
+        "completed_count": 9,
+        "progress_percentage": 100.0
+    },
+    {
+        "student_id": "john",
+        "completed_modules": [
+            "Introduction to Cybersecurity",
+            "Phishing Awareness",
+            "Password Security",
+            "Social Engineering",
+            "Safe Browsing",
+            "Cybersecurity Quiz",
+            "Security Tips",
+            "Online Privacy",
+            "Cybercrime Awareness"
+        ],
+        "total_modules": 9,
+        "completed_count": 9,
+        "progress_percentage": 100.0
+    }
+]
