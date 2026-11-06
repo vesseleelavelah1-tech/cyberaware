@@ -14,7 +14,7 @@ def show_header():
     print("              EMAIL: lavelahvesselee1998@gmail.com")
     print("============================================================================")
     print("CyberAware is a Python-based cybersecurity awareness application designed")
-    print("to educate users about online safety, phishing attacks,\n password security,and cyber threats. \n\nIts goal is to help people recognize online dangers, develop safe \n internet habits, and protect themselves from cybercrime")
+    print("to educate users about online safety, phishing attacks,\n password security, and cyber threats. \n\n Its goal is to help people recognize online dangers, develop safe \n internet habits, and protect themselves from cybercrime")
     print("              Think Before You Click. Stay Alert. Stay Protected!")
     print("============================================================================")
    
